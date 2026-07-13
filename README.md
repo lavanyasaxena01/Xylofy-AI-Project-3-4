@@ -5,7 +5,7 @@
 The Sales Forecasting & Demand Intelligence System is an end-to-end data analytics and machine learning project developed to analyze historical retail sales data, forecast future demand, detect sales anomalies, and segment products based on demand patterns. The project combines exploratory data analysis, time series forecasting, anomaly detection, clustering, and an interactive Streamlit dashboard to support data-driven business decisions.
 
 ## Streamlit Dashboard:
-https://salesforcasting-xylofy-ai.streamlit.app/
+https://salesforecasting-xylofy-ai.streamlit.app/
 
 ---
 
